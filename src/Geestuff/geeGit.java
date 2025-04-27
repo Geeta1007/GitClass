@@ -11,9 +11,7 @@ public class geeGit {
 		System.out.println("second person and first edit");
 		System.out.println("second person and second edit");
 		System.out.println("second person and third edit");
-		
-		String x ="hello";
-		String x1 ="welcome";
+
 	}
 
 }
