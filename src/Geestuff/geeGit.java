@@ -7,6 +7,9 @@ public class geeGit {
 		
 		System.out.println("first person");
 		System.out.println("first person and first edit");
+		System.out.println("second person and first edit");
+		System.out.println("second person and second edit");
+		System.out.println("second person and third edit");
 		
 		
 	}
